@@ -1,1 +1,2 @@
-実行方法　node index.js 
+実行方法　npm install ->
+node index.js 
